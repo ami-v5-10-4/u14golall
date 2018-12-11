@@ -4,8 +4,8 @@ go:
   - 1.7.6
   - 1.8.3
   - 1.9
-	
+  
 build:
     
   ci:
-    - go version 
+    - go version
